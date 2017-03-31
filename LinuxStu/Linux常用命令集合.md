@@ -33,13 +33,13 @@
 
 基础命令
 
-##基础命令
+## 基础命令
 
 - 创建一个目录  mkdir （目录name）
 - 删除  rm
 - 删除一个非空目录  rm  -rf   （file name）
- 切换到上级目录 cd -
- 列出目录项  ls
- 显示进程状态    top
- 查看进程   ps  -ef  |  grep  java
+ - 切换到上级目录 cd -
+ - 列出目录项  ls
+ - 显示进程状态    top
+ - 查看进程   ps  -ef  |  grep  java
     
