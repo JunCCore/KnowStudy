@@ -1,7 +1,7 @@
 # Linux file system
 
-    ## 'df -hl'
-    '
+     'df -hl'
+    
     显示格式为：　
     文件系统              容量 已用 可用 已用% 挂载点　
     Filesystem            Size Used Avail Use% Mounted on
@@ -20,7 +20,7 @@
     df -h 查看每个根路径的分区大小
     du -sh [目录名] 返回该目录的大小
     du -sm [文件夹] 返回该文件夹总M数
-'
+
 
     查看硬盘的分区 #sudo fdisk -l
     查看IDE硬盘信息 #sudo hdparm -i /dev/hda
