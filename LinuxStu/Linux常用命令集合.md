@@ -42,4 +42,4 @@
  - 列出目录项  ls
  - 显示进程状态    top
  - 查看进程   ps  -ef  |  grep  java
-   -修改 ‘test’
+   - 修改 `test`
