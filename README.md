@@ -1,3 +1,0 @@
-# KnowStudy
-## study
-### stusdy
