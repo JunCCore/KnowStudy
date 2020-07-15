@@ -1,7 +1,7 @@
 # Linux file system
 
      'df -hl'
-    
+
     显示格式为：　
     文件系统              容量 已用 可用 已用% 挂载点　
     Filesystem            Size Used Avail Use% Mounted on
@@ -28,10 +28,10 @@
     查看硬盘剩余空间 #df -h #df -H
     查看目录占用空间 #du -hs 目录名
     优盘没法卸载 #sync fuser -km /media/usbdisk
-   
+
 # Linux 基础命令使用
 
-## 基础命令
+## 基础命令 基础命令
 
 - 创建一个目录  mkdir （目录name）
 - 删除  rm
@@ -40,4 +40,3 @@
 - 列出目录项  ls
 - 显示进程状态    top
 - 查看进程   ps  -ef  |  grep  java
-
